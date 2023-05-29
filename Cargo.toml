@@ -1,0 +1,9 @@
+[package]
+name = "automatic-dollop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.71"
+rodio = "0.17.1"
+ctrlc = "3.3.1"
